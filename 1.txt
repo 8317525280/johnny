@@ -3,3 +3,6 @@ hello
 this is 1.txt file
 
 all are friends bro
+
+
+we are friends bro
